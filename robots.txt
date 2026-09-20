@@ -1,0 +1,6 @@
+```text
+User-agent: *
+Allow: /
+
+Sitemap: https://calculatodo.github.io/CalculaTodoymas/sitemap.xml
+```
