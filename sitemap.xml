@@ -1,74 +1,72 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/porcentaje.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/porcentaje.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/regla-de-tres.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/regla-de-tres.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/iva.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/iva.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/interes-compuesto.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/interes-compuesto.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/prestamos.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/prestamos.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/hipoteca.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/hipoteca.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/edad.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/edad.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/dias-entre-fechas.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/dias-entre-fechas.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/imc.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/imc.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/calorias.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/calorias.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/fracciones.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/fracciones.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/alquiler.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/alquiler.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/sueldo.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/sueldo.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/horas.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/horas.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/consumo-combustible.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/consumo-combustible.html</loc>
+</url>
 
-    <url>
-        <loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/coste-viaje.html</loc>
-    </url>
+<url>
+<loc>https://calculatodo.github.io/CalculaTodoymas/calculadoras/coste-viaje.html</loc>
+</url>
 
 </urlset>
-```
